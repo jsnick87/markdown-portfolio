@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Pearl Jam Stickman Image](https://i.imgur.com/JhRmR6T.jpg)
